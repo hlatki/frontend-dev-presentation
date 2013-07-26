@@ -18,11 +18,3 @@
 * **HTML**: The content and structure of a webpage
 * **CSS**: How that page looks 
 * **JavaScript**: Making it fancy 
-
-
-
-
-
-
-
-
