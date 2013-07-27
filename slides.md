@@ -35,23 +35,36 @@
 ## The File Structure of a Website
 
 
+* index.html
+* Good organization to have seperate files for CSS, images, JS, etc.
+
+
 
 
 ## HTML 
 
-* Structure
+* Describes the elements in a document
+* As well as containing the content
+
+
+
+
+
+## HTML Tags
+* You need an opening and closing tag
+'''
+<p>This is a paragraph......</p>
+'''
+* Except when you don't (self-closing tags):
+'''
+<img src="img/cat.png">
+'''
 
 
 
 
 ## Anatomy of an HTML File
 
-*
-
-
-
-
-## HTML Tags
 
 
 
