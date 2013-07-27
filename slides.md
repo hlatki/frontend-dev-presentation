@@ -29,6 +29,11 @@
 
 
 
+## The File Structure of a Website
+
+
+
+
 ## HTML 
 
 * Structure
@@ -38,7 +43,6 @@
 
 ## Anatomy of an HTML File
 
-* index.html
 *
 
 
@@ -94,13 +98,15 @@
 
 ## More Selectors
 
-* [Good Introduction](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/)
-
+* [30 Selectors](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/)
+* Class and ID are the most common though
 
 
 
 ## Styling Links
 
+* :before
+* :after
 
 
 
