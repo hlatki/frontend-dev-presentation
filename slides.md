@@ -22,6 +22,143 @@
 
 
 
+## Client/Server
+
+*
+
+
+
+
 ## HTML 
 
-* Markup language
+* Structure
+
+
+
+
+## Anatomy of an HTML File
+
+* index.html
+*
+
+
+
+
+## HTML Tags
+
+
+
+
+## IDs &amp; Classes
+
+* An ID Uniquely identifies an element 
+* You can add a particular class to many elements
+
+
+
+
+## HTML5
+
+
+
+
+## CSS
+
+
+
+
+## Including Your CSS
+
+
+
+
+## The Box Model
+
+
+
+
+## IDs as Selectors
+
+
+
+
+## Classes as selectors
+
+
+
+
+## Descendants
+
+
+
+
+## More Selectors
+
+* [Good Introduction](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/)
+
+
+
+
+## Styling Links
+
+
+
+
+## Bootstrap &amp; Co.
+
+
+
+
+## JavaScript
+
+* Has nothing to do with Java
+* Include in your HTML file
+
+
+
+## Including Your JS
+
+
+
+
+## Variables
+
+
+
+
+## Arrays
+
+
+
+
+## Objects
+
+
+
+
+## Loops
+
+
+
+
+## Functions
+
+
+
+
+## jQuery
+
+
+
+
+## Manipulating the DOM
+
+
+
+
+## jQuery Selectors
+
+
+
+
+## More Advanced Topics
