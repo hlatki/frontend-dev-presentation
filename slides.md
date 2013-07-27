@@ -52,13 +52,13 @@
 
 ## HTML Tags
 * You need an opening and closing tag
-```
+<pre><code class="html">
 <p>This is a paragraph......</p>
-```
+</code></pre>
 * Except when you don't (self-closing tags):
-```
+<pre><code class="html">
 <img src="img/cat.png">
-```
+</code></pre>
 
 
 
