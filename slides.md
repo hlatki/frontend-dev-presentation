@@ -24,7 +24,8 @@
 
 ## Client/Server
 
-*
+![Client server diagram from Wikipedia](http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/500px-Client-server-model.svg.png)
+*source*: Wikimedia
 
 
 
