@@ -82,6 +82,15 @@
 
 
 
+## HTML Boilerplate
+
+* [http://html5boilerplate.com/] HTML5 Boilerplate
+* Includes basic index.html
+* Also the standard folder structure
+* Some helpful CSS 
+
+
+
 ## CSS
 
 
@@ -93,8 +102,9 @@
 
 
 ## The Box Model
+![Box model from W3C](http://www.w3.org/TR/CSS2/images/boxdim.png)
 
-
+*source:* W3.org
 
 
 ## IDs as Selectors
