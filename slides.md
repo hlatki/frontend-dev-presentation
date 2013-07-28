@@ -103,7 +103,7 @@
 
 ## HTML Boilerplate
 
-* [http://html5boilerplate.com/] HTML5 Boilerplate
+* [HTML5 Boilerplate] (http://html5boilerplate.com/)
 * Includes basic index.html
 * Also the standard folder structure
 * Some helpful CSS 
