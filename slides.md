@@ -22,6 +22,25 @@
 
 
 
+## Tools
+
+* Editor with syntax highlighting
+    * [Sublime Text -- Great and free](http://www.sublimetext.com/) 
+    * TextMate -- Not free but has big fan base
+    * Dreamweaver etc.
+
+
+
+
+## Browser Developer Tools
+
+* Chrome Dev Tools (Tools > Developer Tools)
+* Firefox (Tools > Web Developer > Toggle Tools)
+* Safari (Enable Develp menu from Advanced Preferences)
+
+
+
+
 ## Client/Server
 
 ![Client server diagram from Wikipedia](http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/500px-Client-server-model.svg.png)
@@ -38,24 +57,6 @@
 * index.html
 * Good organization to have seperate files for CSS, images, JS, etc.
 
-
-
-
-## Tools
-
-* Editor with syntax highlighting
-    * [Sublime Text -- Great and free](http://www.sublimetext.com/) 
-    * TextMate -- Not free but has big fan base
-    * Dreamweaver etc.
-
-
-
-
-## Browser Developer Tools
-
-* Chrome Dev Tools (Tools > Developer Tools)
-* Firefox (Tools > Web Developer > Toggle Tools)
-* Safari (Enable Develp menu from Advanced Preferences)
 
 
 
