@@ -25,7 +25,7 @@
 ## Tools
 
 * Editor with syntax highlighting
-    * [Sublime Text -- Great and free](http://www.sublimetext.com/) 
+    * [Sublime Text](http://www.sublimetext.com/) -- Great and free
     * TextMate -- Not free but has big fan base
     * Dreamweaver etc.
 
@@ -52,7 +52,6 @@
 
 
 ## The File Structure of a Website
-
 
 * index.html
 * Good organization to have seperate files for CSS, images, JS, etc.
