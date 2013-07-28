@@ -110,14 +110,16 @@
     * <pre><code class="html"><article></article></pre></code>
     * <pre><code class="html"><section></section></pre></code>
     * <pre><code class="html"><header></header></pre></code>
-    * etc.
-* New media tags: <pre><code class="html"><audio></code></pre> and <pre><code class="html"><video></pre></code>
-* <pre><code class="html">Canvas</pre></code>
-* [Mozilla Developer Network] is a great resource (https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+     etc.
+* New media tags:
+    * <pre><code class="html"><audio></code></pre>  
+    * <pre><code class="html"><video></pre></code>
+* <pre><code class="html"><canvas></pre></code>
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) is a great resource 
 
 ## HTML Boilerplate
 
-* [HTML5 Boilerplate] (http://html5boilerplate.com/)
+* [HTML5 Boilerplate](http://html5boilerplate.com/)
 * Includes basic index.html
 * Also the standard folder structure
 * Some helpful CSS 
