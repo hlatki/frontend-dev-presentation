@@ -96,6 +96,15 @@
 
 
 
+## ID &amp; Class Example
+<pre><code class="html">
+<h1 id="title-banner">My Site!</h1>
+<p id="introduction" class="a-block-of-text">Here's my life story: blah, blah, lorem ipsum etc. forever</p>
+<p id="manifesto" class="a-block-of-text">Here's how I feel about HTML5: SOOO many feelings.  Let me tell you about them forever.</p>
+</code></pre>
+
+
+
 ## HTML5
 
 
