@@ -44,9 +44,9 @@
 ## Tools
 
 * Editor with syntax highlighting
-* (Sublime Text -- Great and free)[http://www.sublimetext.com/] 
-* TextMate -- Not free but has big fan base
-* Dreamweaver etc.
+    * [Sublime Text -- Great and free](http://www.sublimetext.com/) 
+    * TextMate -- Not free but has big fan base
+    * Dreamweaver etc.
 
 
 
