@@ -41,6 +41,24 @@
 
 
 
+## Tools
+
+* Editor with syntax highlighting
+* (Sublime Text -- Great and free)[http://www.sublimetext.com/] 
+* TextMate -- Not free but has big fan base
+* Dreamweaver etc.
+
+
+
+
+## Browser Developer Tools
+
+* Chrome Dev Tools (Tools > Developer Tools)
+* Firefox (Tools > Web Developer > Toggle Tools)
+* Safari (Enable Develp menu from Advanced Preferences)
+
+
+
 ## HTML 
 
 * Describes the elements in a document
