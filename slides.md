@@ -107,8 +107,14 @@
 
 ## HTML5
 
-
-
+* More descriptive tags
+    * <pre><code class="html"><article></article></pre></code>
+    * <pre><code class="html"><section></section></pre></code>
+    * <pre><code class="html"><header></header></pre></code>
+    * etc.
+* New media tags: <pre><code class="html"><audio></code></pre> and <pre><code class="html"><video></pre></code>
+* <pre><code class="html">Canvas</pre></code>
+* [Mozilla Developer Network] is a great resource (https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
 ## HTML Boilerplate
 
