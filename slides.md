@@ -104,6 +104,7 @@ Editor with syntax highlighting
 
 * An ID Uniquely identifies an element 
 * You can add a particular class to many elements
+* You can assign multiple classes to an element
 
 
 
@@ -171,7 +172,7 @@ color: #444;
 
 ## Inline CSS
 <pre><code class="html">
-<h1 style="color: #444;">My Website</h1>
+&lt;h1 style="color: #444;"&gt;My Website&lt;/h1&gt;
 </pre></code>
 
 
@@ -197,15 +198,38 @@ color: #444;
 
 ## IDs as Selectors
 
+<pre><code class="css">
+#title-banner {
+    color: blue;
+    font-size: 3em;
+}
+</pre></code>
+[Run it](http://jsfiddle.net/vKyQg/)
+
+
 
 
 
 ## Classes as selectors
 
+<pre><code class="css">
+.warning {
+    color: red;
+}
+</pre></code>
+
 
 
 
 ## Descendants
+
+<pre><code class="css">
+h1 a {
+    color: green;
+}
+</pre></code>
+[Example](http://jsfiddle.net/gy9sA/)
+
 
 
 
@@ -214,6 +238,15 @@ color: #444;
 
 * [30 Selectors](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/)
 * Class and ID are the most common though
+
+
+
+
+## **Cascading** Style Sheets
+
+* Author style sheets, user stylesheets, and user agent style sheets (from most to least weight)
+* Conflicts are resolved in favor of most specific, and the later it appears in the stylesheet
+* [Example](http://jsfiddle.net/7fy5A/1/)
 
 
 
@@ -257,6 +290,13 @@ color: pink;
 * Made by Twitter for easy prototyping
 * Grid system, good base to start with
 * Similar: [Foundation](http://foundation.zurb.com/)
+
+
+
+
+## Further Reading
+
+* [CSS Section of MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 
