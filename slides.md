@@ -259,21 +259,54 @@ a:hover {
 
 
 ## Including Your JS
+* Inline or external
+* Either way, do it before the &lt;/body&gt; tag
+
+
+
+## Inline JS 
+<pre><code>
+&lt;script&gt;
+alert("JavaScript!");
+&lt;/script&gt;
+</pre></code>
+
+
+
+
+## Linking to External File
+<pre><code>
+&lt;script type="text/javascript" src="yourfile.js"&gt;&lt;/script&gt;
+</pre></code>
 
 
 
 
 ## Variables
+* Holds a value 
+* Can be a string, number, function, another variable, object
+<pre><code>
+var myName = "Hannah";
+</pre></code>
+* You can change them
+* [Example](http://jsfiddle.net/RbLfn/)
 
 
 
 
 ## Arrays
+* Think of them as list of variables
+<pre><code>
+var myArray = ["cat","dog","wookie"];
+</pre></code>
+* [Example](http://jsfiddle.net/kJ4ac/)
 
 
 
 
 ## Objects
+* A "thing" with named properties 
+* [Example](http://jsfiddle.net/XSrHN/)
 
 
 
@@ -283,9 +316,11 @@ a:hover {
 
 
 
+
 ## Functions
-
-
+* Allows you to reuse chunks of code
+* [Example](http://jsfiddle.net/ku2vc/)
+*
 
 
 ## jQuery
