@@ -219,20 +219,33 @@
 
 ## Styling Links
 
-* :before
-* :after
+* :link
+* :visited
+* :hover 
+<pre><code class="css">
+a:hover {
+  color: pink;  
+}
+</pre></code>
 
 
 
 
 ## Web Typography
 
-
+* Web safe  fonts: meh
+* Much better: @font-face
+* [Google Fonts](http://www.google.com/fonts/), [Typekit (Adobe)](), [Fontdeck](http://fontdeck.com/)
 
 
 
 
 ## Bootstrap &amp; Co.
+
+* [Twitter Bootstrap](http://twitter.github.io/bootstrap/)
+* Made by Twitter for easy prototyping
+* Grid system, good base to start with
+* Similar: [Foundation](http://foundation.zurb.com/)
 
 
 
