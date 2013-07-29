@@ -148,7 +148,7 @@
 
 
 ## Including Your CSS
-* Internal -- as part of the head section
+* Internal -- in a style section  (part of the head section)
 * Inline CSS -- As style attribute of HTML tag
 * External -- include link to CSS file in head section of HTML file
 
@@ -156,18 +156,28 @@
 
 
 ## Internal CSS
-
-
-
+<pre><code class="html">
+&lt;head&gt;
+    &lt;style&gt;
+        #title-banner {
+            color: #444;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+</pre></code>
 
 ## Inline CSS
-
-
+<pre><code class="html">
+<h1 style="color: #444;">My Website</h1>
+</pre></code>
 
 
 ## External CSS
-
-
+<pre><code class="html">
+&lt;head&gt;
+&t;link rel="stylesheet" type="text/css" href="yourfile.css"&gt;
+&lt;/head&gt;
+</code></pre>
 
 
 ## The Box Model
