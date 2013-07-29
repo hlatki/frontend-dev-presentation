@@ -106,16 +106,13 @@
 
 ## HTML5
 
-* More descriptive tags
-    * <pre><code class="html"><article></article></pre></code>
-    * <pre><code class="html"><section></section></pre></code>
-    * <pre><code class="html"><header></header></pre></code>
-     etc.
-* New media tags:
-    * <pre><code class="html"><audio></code></pre>  
-    * <pre><code class="html"><video></pre></code>
-* <pre><code class="html"><canvas></pre></code>
+* More descriptive tags: *article*, *section*, *header*, etc.
+* New media tags: *audio*, *video*
+* Canvas
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) is a great resource 
+
+
+
 
 ## HTML Boilerplate
 
@@ -126,8 +123,11 @@
 
 
 
+
 ## CSS
 
+* Position elements
+* Styling
 
 
 
@@ -164,10 +164,12 @@
 
 
 
+
 ## Styling Links
 
 * :before
 * :after
+
 
 
 
@@ -180,6 +182,7 @@
 
 * Has nothing to do with Java
 * Include in your HTML file
+
 
 
 
