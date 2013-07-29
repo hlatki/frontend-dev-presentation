@@ -25,6 +25,7 @@
 ## Tools
 
 Editor with syntax highlighting
+
 * [Sublime Text](http://www.sublimetext.com/): Great and free
 * TextMate: Not free but has big fan base
 * Dreamweaver etc.
@@ -155,7 +156,7 @@ Editor with syntax highlighting
 
 
 ## Internal CSS
-<pre><code class="html">
+<pre><code data-trim class="html">
 &lt;head&gt;
 &lt;style&gt;
 #title-banner {
@@ -177,7 +178,7 @@ color: #444;
 
 
 ## External CSS
-<pre><code class="html">
+<pre><code data-trim class="html">
 &lt;head&gt;
 &lt;link rel="stylesheet" type="text/css" href="yourfile.css"&gt;
 &lt;/head&gt;
