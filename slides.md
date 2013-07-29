@@ -157,11 +157,11 @@
 ## Internal CSS
 <pre><code class="html">
 &lt;head&gt;
-  &lt;style&gt;
-    #title-banner {
-      color: #444;
-    }
-  &lt;/style&gt;
+&lt;style&gt;
+#title-banner {
+color: #444;
+}
+&lt;/style&gt;
 &lt;/head&gt;
 </pre></code>
 
