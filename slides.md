@@ -118,6 +118,7 @@
 
 
 
+
 ## HTML5
 
 * More descriptive tags: *article*, *section*, *header*, etc.
@@ -145,7 +146,26 @@
 
 
 
+
 ## Including Your CSS
+
+
+* Inline CSS
+    * In head section, or
+    * As style attribute of HTML tag
+
+* Include link to CSS file in head section of HTML file
+
+
+
+
+## Inline CSS 
+
+
+
+
+## Link to CSS file
+
 
 
 
@@ -154,6 +174,8 @@
 ![Box model from W3C](http://www.w3.org/TR/CSS2/images/boxdim.png)
 
 *source:* W3.org
+
+
 
 
 ## IDs as Selectors
@@ -183,6 +205,13 @@
 
 * :before
 * :after
+
+
+
+
+## Web Typography
+
+
 
 
 
