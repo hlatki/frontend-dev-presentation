@@ -243,7 +243,9 @@ color: pink;
 
 ## What's an em?
 
-*
+* CSS allows you to size text using *em*, *pixels*, *points*, or *percent* 
+* em is the most accessible and scalable 
+* "When defining the font-size property, an em is equal to the size of the font that applies to the parent of the element in question. If you haven't set the font size anywhere on the page, then it is the browser default, which is probably 16px." -- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
 
 
 
