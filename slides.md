@@ -142,27 +142,30 @@
 
 * Position elements
 * Styling
+* Designers have a huge advantage
 
 
 
 
 ## Including Your CSS
-
-* Inline CSS
-    * In head section, or
-    * As style attribute of HTML tag
-* Include link to CSS file in head section of HTML file
+* Internal -- as part of the head section
+* Inline CSS -- As style attribute of HTML tag
+* External -- include link to CSS file in head section of HTML file
 
 
 
 
-## Inline CSS 
+## Internal CSS
 
 
 
 
-## Link to CSS file
+## Inline CSS
 
+
+
+
+## External CSS
 
 
 
