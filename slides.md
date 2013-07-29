@@ -85,7 +85,6 @@
 &lt;!DOCTYPE html&gt;
     &lt;head&gt;
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>My webpage</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -148,9 +147,9 @@
 
 
 ## Including Your CSS
-* Internal -- in a style section  (part of the head section)
-* Inline CSS -- As style attribute of HTML tag
-* External -- include link to CSS file in head section of HTML file
+* Internal: in a style section  (part of the head section)
+* Inline CSS: as style attribute of HTML tag
+* External: include link to CSS file in head section of HTML file
 
 
 
@@ -158,18 +157,23 @@
 ## Internal CSS
 <pre><code class="html">
 &lt;head&gt;
-    &lt;style&gt;
-        #title-banner {
-            color: #444;
-        }
-    &lt;/style&gt;
+  &lt;style&gt;
+    #title-banner {
+      color: #444;
+    }
+  &lt;/style&gt;
 &lt;/head&gt;
 </pre></code>
+
+
+
 
 ## Inline CSS
 <pre><code class="html">
 <h1 style="color: #444;">My Website</h1>
 </pre></code>
+
+
 
 
 ## External CSS
@@ -178,6 +182,8 @@
 &t;link rel="stylesheet" type="text/css" href="yourfile.css"&gt;
 &lt;/head&gt;
 </code></pre>
+
+
 
 
 ## The Box Model
