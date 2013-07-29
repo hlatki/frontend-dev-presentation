@@ -82,7 +82,21 @@
 
 
 ## Anatomy of an HTML File
-
+<pre><code class="html">
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>My webpage</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <h1>This is a webpage</h1>
+        <p>And here is a paragraph</p>
+    </body>
+</html>
+</code></pre>
 
 
 
@@ -114,7 +128,7 @@
 
 
 
-## HTML Boilerplate
+## HTML5 Boilerplate
 
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * Includes basic index.html
