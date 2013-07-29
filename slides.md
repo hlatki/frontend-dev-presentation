@@ -25,8 +25,8 @@
 ## Tools
 
 * Editor with syntax highlighting
-    * [Sublime Text](http://www.sublimetext.com/) -- Great and free
-    * TextMate -- Not free but has big fan base
+    * [Sublime Text](http://www.sublimetext.com/): Great and free
+    * TextMate: Not free but has big fan base
     * Dreamweaver etc.
 
 
@@ -179,7 +179,7 @@ color: #444;
 ## External CSS
 <pre><code class="html">
 &lt;head&gt;
-&t;link rel="stylesheet" type="text/css" href="yourfile.css"&gt;
+&lt;link rel="stylesheet" type="text/css" href="yourfile.css"&gt;
 &lt;/head&gt;
 </code></pre>
 
