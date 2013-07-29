@@ -24,10 +24,10 @@
 
 ## Tools
 
-* Editor with syntax highlighting
-    * [Sublime Text](http://www.sublimetext.com/): Great and free
-    * TextMate: Not free but has big fan base
-    * Dreamweaver etc.
+Editor with syntax highlighting
+* [Sublime Text](http://www.sublimetext.com/): Great and free
+* TextMate: Not free but has big fan base
+* Dreamweaver etc.
 
 
 
@@ -222,9 +222,10 @@ color: #444;
 * :link
 * :visited
 * :hover 
+
 <pre><code class="css">
 a:hover {
-  color: pink;  
+color: pink;  
 }
 </pre></code>
 
@@ -235,7 +236,7 @@ a:hover {
 
 * Web safe  fonts: meh
 * Much better: @font-face
-* [Google Fonts](http://www.google.com/fonts/), [Typekit (Adobe)](), [Fontdeck](http://fontdeck.com/)
+* [Google Fonts](http://www.google.com/fonts/), [Typekit (Adobe)](https://typekit.com/), [Fontdeck](http://fontdeck.com/)
 
 
 
