@@ -29,7 +29,8 @@
     * TextMate: Not free but has big fan base
     * Dreamweaver etc.
 * Test in as many combinations of browser versions and OSes as you can
-* [BrowserStack](http://www.browserstack.com/) (Not free, but very cool)
+    * [BrowserStack](http://www.browserstack.com/) (Not free, but very cool)
+
 
 
 
@@ -160,7 +161,7 @@
 
 * Author style sheets, user stylesheets, and user agent style sheets (from most to least weight)
 * Conflicts are resolved in favor of most specific, and the later it appears in the stylesheet
-* [Example](http://jsfiddle.net/7fy5A/1/)
+* [Example](http://jsfiddle.net/7fy5A/2/)
 
 
 
@@ -296,6 +297,7 @@ color: pink;
 
 
 
+
 ## Responsive Design
 
 * Having a good experience on different devices 
@@ -332,6 +334,7 @@ color: pink;
 }
 &lt;/style&gt;
 </code></pre>
+
 
 
 
@@ -504,6 +507,13 @@ $("selecter_goes_here").whatever
 
 * Button clicks, window resize, etc.
 * [Example](http://jsfiddle.net/WK64e/)
+
+
+
+
+## Learn JavaScript for Real
+
+[Eloquent JavaScript](http://eloquentjavascript.net/)is a fantastic (and free) online, interactive book
 
 
 
