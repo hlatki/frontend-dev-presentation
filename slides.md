@@ -546,3 +546,14 @@ those found at W3Schools.
     * [Eric Meyer on CSS](http://meyerweb.com/eric/css/)
     * [Jeffrey Zeldman](http://www.zeldman.com/)
 * Experiment!
+
+
+
+
+## Questions etc.
+
+Feel free to contact me with any question:
+
+Twitter: @hlatkin
+
+Email: hannah.atkinson@gmail.com
