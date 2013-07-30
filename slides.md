@@ -63,7 +63,7 @@
 ## The File Structure of a Website
 
 * index.html
-* Good organization to have seperate folders for CSS, images, JS, etc.
+* Good organization to have separate folders for CSS, images, JS, etc.
 
 
 
@@ -481,7 +481,7 @@ var myArray = ["cat","dog","wookie"];
 ## Manipulating the DOM
 
 * Dynamically change the webpage
-* Manipulate elemnts in your HTML
+* Manipulate elements in your HTML
 
 
 
@@ -495,7 +495,7 @@ var myArray = ["cat","dog","wookie"];
 
 ## jQuery Selectors
 <pre><code>
-$("selecter_goes_here").whatever
+$("selector_goes_here").whatever
 </code></pre>
 * [Example](http://jsfiddle.net/5RAJC/)
 * [jQuery Selector Documentation](http://api.jquery.com/category/selectors/)
