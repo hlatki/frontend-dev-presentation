@@ -496,6 +496,7 @@ var myArray = ["cat","dog","wookie"];
 <pre><code>
 $("selector_goes_here").whatever
 </code></pre>
+
 * [Example](http://jsfiddle.net/5RAJC/)
 * [jQuery Selector Documentation](http://api.jquery.com/category/selectors/)
 
