@@ -150,11 +150,10 @@
 ## How it works
 
 * Apply some style to a tag or selectors
-<pre><code data-trim class="css">
+<pre><code class="css">
 p {
     color: blue;
 }
-
 .warning {
     color: red;
     font-size: 1.2em;
