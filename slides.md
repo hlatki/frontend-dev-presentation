@@ -53,7 +53,7 @@
 ## The File Structure of a Website
 
 * index.html
-* Good organization to have seperate files for CSS, images, JS, etc.
+* Good organization to have seperate folders for CSS, images, JS, etc.
 
 
 
@@ -101,7 +101,7 @@
 
 ## IDs &amp; Classes
 
-* An ID Uniquely identifies an element 
+* An ID uniquely identifies an element 
 * You can add a particular class to many elements
 * You can assign multiple classes to an element
 
