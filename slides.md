@@ -28,6 +28,7 @@
     * [Sublime Text](http://www.sublimetext.com/): Great and free
     * TextMate: Not free but has big fan base
     * Dreamweaver etc.
+* Test in as many combinations of browser versions and OSes as you can
 
 
 
@@ -46,6 +47,14 @@
 ![Client server diagram from Wikipedia](http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/500px-Client-server-model.svg.png)
 
 *source*: Wikimedia
+
+
+
+
+## Web Standards 
+
+* The [World Wide Web Consortium (W3C)](http://www.w3.org/) sets the rules for HTML and CSS
+* Broswers don't always follow the rules 
 
 
 
@@ -331,6 +340,7 @@ color: pink;
 ## Further Reading
 
 * [CSS Section of MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Web Platform's CSS Guide](http://docs.webplatform.org/wiki/css/tutorials)
 
 
 
@@ -465,3 +475,11 @@ var myArray = ["cat","dog","wookie"];
 
 
 ## More Advanced Topics
+
+
+
+
+## Advice
+
+* Prefer one of the resources [here](http://www.w3fools.com/#what-should-be-done) to 
+those found at W3Schools. 
