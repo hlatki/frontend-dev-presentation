@@ -1,5 +1,5 @@
 # Coding Workshop for Designers
-## Presented by Shift Design Group &amp; Lexington Codes
+### Presented by Shift Design Group &amp; Lexington Codes
 
 
 
@@ -450,12 +450,6 @@ var myArray = ["cat","dog","wookie"];
 
 
 
-## Loops
-
-
-
-
-
 ## Functions
 * Allows you to reuse chunks of code
 * [Example](http://jsfiddle.net/ku2vc/)
@@ -466,32 +460,68 @@ var myArray = ["cat","dog","wookie"];
 
 ## Functions as Object Properties
 
+* Object properties can be functions
 * [Example](http://jsfiddle.net/XSrHN/1/)
 
 
 
-## Callbacks
 
+## Loops
 
-
-
-
-## jQuery
+* Sometimes you need to repeat yourself
+* E.g., say you want to print all the items in an array
+* [Example](http://jsfiddle.net/UhMJx/)
 
 
 
 
 ## Manipulating the DOM
 
+* Dynamically change the webpage
+* Manipulate elemnts in your HTML
+
+
+
+
+## jQuery
+* Overwhelmingly popular JavaScript library
+* Uses CSS selectors as a base
+
 
 
 
 ## jQuery Selectors
+<pre><code>
+$("selecter_goes_here").whatever
+</code></pre>
+* [Example](http://jsfiddle.net/5RAJC/)
+* [jQuery Selector Documentation](http://api.jquery.com/category/selectors/)
+
+
+
+
+## Events &amp; Callbacks
+
+* Button clicks, window resize, etc.
+* [Example](http://jsfiddle.net/WK64e/)
+
+
+
+
+## JavaScript Everywhere
+
+* Tons of awesome open source libraries!
+* Even runs server-side now
 
 
 
 
 ## More Advanced Topics
+
+* Git & GitHub
+* [The Command Line](http://wiseheartdesign.com/articles/2010/11/12/the-designers-guide-to-the-osx-command-prompt/)
+* Yeoman, Grunt, and Bower
+* Ruby on Rails, Django, etc.
 
 
 
@@ -500,3 +530,9 @@ var myArray = ["cat","dog","wookie"];
 
 * Prefer one of the resources [here](http://www.w3fools.com/#what-should-be-done) to 
 those found at W3Schools. 
+* Tons of fantastic blogs
+    * [A List Apart](http://alistapart.com/)
+    * [Smashing Magazine](http://alistapart.com/)
+    * [Eric Meyer on CSS](http://meyerweb.com/eric/css/)
+    * [Jeffrey Zeldman](http://www.zeldman.com/)
+* Experiment!
