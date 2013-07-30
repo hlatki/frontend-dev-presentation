@@ -284,6 +284,28 @@ color: pink;
 
 
 
+## Media Queries
+
+Selectively apply styles (e.g. one for small screens, another for large)
+Example from MDN's [comprehensive article](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) on media queries
+
+<pre><code>
+<!-- CSS media query on a link element -->
+&lt;link rel="stylesheet" media="(max-width: 800px)" href="example.css" /&gt;
+
+<!-- CSS media query within a style sheet -->
+&lt;style&gt;
+@media (max-width: 600px) {
+  .facet_sidebar {
+    display: none;
+  }
+}
+&lt;/style&gt;
+</code></pre>
+
+
+
+
 ## Bootstrap &amp; Co.
 
 * [Twitter Bootstrap](http://twitter.github.io/bootstrap/)
