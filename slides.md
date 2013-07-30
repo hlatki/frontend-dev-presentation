@@ -296,14 +296,6 @@ color: pink;
 
 
 
-## The Box Model
-![Box model from W3C](http://www.w3.org/TR/CSS2/images/boxdim.png)
-
-*source:* W3.org
-
-
-
-
 ## Responsive Design
 
 * Having a good experience on different devices 
@@ -340,6 +332,14 @@ color: pink;
 }
 &lt;/style&gt;
 </code></pre>
+
+
+
+## The Box Model
+![Box model from W3C](http://www.w3.org/TR/CSS2/images/boxdim.png)
+
+*source:* W3.org
+
 
 
 
