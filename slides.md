@@ -24,11 +24,10 @@
 
 ## Tools
 
-Editor with syntax highlighting
-
-* [Sublime Text](http://www.sublimetext.com/): Great and free
-* TextMate: Not free but has big fan base
-* Dreamweaver etc.
+* Editor with syntax highlighting
+    * [Sublime Text](http://www.sublimetext.com/): Great and free
+    * TextMate: Not free but has big fan base
+    * Dreamweaver etc.
 
 
 
