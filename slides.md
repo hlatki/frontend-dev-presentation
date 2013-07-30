@@ -148,6 +148,21 @@ Editor with syntax highlighting
 
 
 
+## How it works
+
+* Apply some style to a tag or selectors
+<pre><code data-trim class="css">
+p {
+    color: blue;
+}
+
+.warning {
+    color: red;
+    font-size: 1.2em;
+}
+</code></pre>
+
+
 ## Including Your CSS
 * Internal: in a style section  (part of the head section)
 * Inline CSS: as style attribute of HTML tag
