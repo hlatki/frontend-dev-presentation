@@ -1,5 +1,5 @@
 # Coding Workshop for Designers
-## Presented by Shift Design Group &amp; Lexington Codes
+### Presented by Shift Design Group &amp; Lexington Codes
 
 
 
@@ -535,3 +535,4 @@ those found at W3Schools.
     * [Smashing Magazine](http://alistapart.com/)
     * [Eric Meyer on CSS](http://meyerweb.com/eric/css/)
     * [Jeffrey Zeldman](http://www.zeldman.com/)
+* Experiment!
