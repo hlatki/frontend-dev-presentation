@@ -211,12 +211,11 @@ color: #444;
 
 ## IDs as Selectors
 
-<pre><code class="css">
-#title-banner {
+<pre><code>#title-banner {
     color: blue;
     font-size: 3em;
-}
-</code></pre>
+}</code></pre>
+
 [Run it](http://jsfiddle.net/vKyQg/)
 
 
@@ -250,7 +249,7 @@ h1 a {
 ## More Selectors
 
 * [30 Selectors](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/)
-* Class and ID are the most common though
+* Tag, class and ID are the most common though
 
 
 
@@ -299,8 +298,8 @@ color: pink;
 
 ## Media Queries
 
-Selectively apply styles (e.g. one for small screens, another for large)
-Example from MDN's [comprehensive article](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) on media queries
+* Selectively apply styles (e.g. one for small screens, another for large)
+* Example from MDN's [comprehensive article](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) on media queries:
 
 <pre><code>
 <!-- CSS media query on a link element -->
@@ -424,6 +423,13 @@ var myArray = ["cat","dog","wookie"];
 * Allows you to reuse chunks of code
 * [Example](http://jsfiddle.net/ku2vc/)
 *
+
+
+
+
+## Functions as Object Properties
+
+
 
 
 
