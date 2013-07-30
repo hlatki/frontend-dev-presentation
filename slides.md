@@ -29,7 +29,7 @@
     * TextMate: Not free but has big fan base
     * Dreamweaver etc.
 * Test in as many combinations of browser versions and OSes as you can
-
+* [BrowserStack](http://www.browserstack.com/) (Not free, but very cool)
 
 
 
@@ -37,7 +37,7 @@
 
 * Chrome Dev Tools (Tools > Developer Tools)
 * Firefox (Tools > Web Developer > Toggle Tools)
-* Safari (Enable Develp menu from Advanced Preferences)
+* Safari (Enable Develop menu from Advanced Preferences)
 
 
 
@@ -54,7 +54,7 @@
 ## Web Standards 
 
 * The [World Wide Web Consortium (W3C)](http://www.w3.org/) sets the rules for HTML and CSS
-* Broswers don't always follow the rules 
+* Browsers don't always follow the rules 
 
 
 
@@ -75,6 +75,15 @@
 
 
 
+## HTML5
+
+* More descriptive tags: *article*, *section*, *header*, etc.
+* New media tags: *audio*, *video*
+* Canvas
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) is a great resource 
+
+
+
 
 ## HTML Tags
 * You need an opening and closing tag
@@ -85,6 +94,7 @@
 <pre><code class="html">
 <img src="img/cat.png">
 </code></pre>
+(HTML5 eliminates the need for the / at the end of the img tag)
 
 
 
@@ -123,16 +133,6 @@
 <p id="introduction" class="a-block-of-text">Here's my life story: blah, blah, lorem ipsum etc. forever</p>
 <p id="manifesto" class="a-block-of-text">Here's how I feel about HTML5: SOOO many feelings.  Let me tell you about them forever.</p>
 </code></pre>
-
-
-
-
-## HTML5
-
-* More descriptive tags: *article*, *section*, *header*, etc.
-* New media tags: *audio*, *video*
-* Canvas
-* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) is a great resource 
 
 
 
@@ -242,6 +242,13 @@ color: #444;
 
 
 
+## Example
+
+[Class and ID Example](http://jsfiddle.net/45bG2/)
+
+
+
+
 ## Descendants
 
 <pre><code class="css">
@@ -249,7 +256,7 @@ h1 a {
     color: green;
 }
 </code></pre>
-[Example](http://jsfiddle.net/gy9sA/)
+[Example](http://jsfiddle.net/gy9sA/2/)
 
 
 
@@ -263,7 +270,7 @@ h1 a {
 
 
 
-## **Cascading** Style Sheets
+## "Cascading" Style Sheets
 
 * Author style sheets, user stylesheets, and user agent style sheets (from most to least weight)
 * Conflicts are resolved in favor of most specific, and the later it appears in the stylesheet
@@ -449,7 +456,7 @@ var myArray = ["cat","dog","wookie"];
 
 ## Functions as Object Properties
 
-
+* [Example](http://jsfiddle.net/XSrHN/1/)
 
 
 
