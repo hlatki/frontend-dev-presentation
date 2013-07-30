@@ -147,11 +147,20 @@
 
 
 
-## CSS
+## Cascading Style Sheets
 
 * Position elements
 * Styling
 * Designers have a huge advantage
+
+
+
+
+## "Cascading" Style Sheets
+
+* Author style sheets, user stylesheets, and user agent style sheets (from most to least weight)
+* Conflicts are resolved in favor of most specific, and the later it appears in the stylesheet
+* [Example](http://jsfiddle.net/7fy5A/1/)
 
 
 
@@ -168,6 +177,8 @@ p {
     font-size: 1.2em;
 }
 </code></pre>
+
+
 
 
 ## Including Your CSS
@@ -206,14 +217,6 @@ color: #444;
 &lt;link rel="stylesheet" type="text/css" href="yourfile.css"&gt;
 &lt;/head&gt;
 </code></pre>
-
-
-
-
-## The Box Model
-![Box model from W3C](http://www.w3.org/TR/CSS2/images/boxdim.png)
-
-*source:* W3.org
 
 
 
@@ -270,15 +273,6 @@ h1 a {
 
 
 
-## "Cascading" Style Sheets
-
-* Author style sheets, user stylesheets, and user agent style sheets (from most to least weight)
-* Conflicts are resolved in favor of most specific, and the later it appears in the stylesheet
-* [Example](http://jsfiddle.net/7fy5A/1/)
-
-
-
-
 ## Styling Links
 
 * :link
@@ -299,6 +293,22 @@ color: pink;
 * Web safe  fonts: meh
 * Much better: @font-face
 * [Google Fonts](http://www.google.com/fonts/), [Typekit (Adobe)](https://typekit.com/), [Fontdeck](http://fontdeck.com/)
+
+
+
+## The Box Model
+![Box model from W3C](http://www.w3.org/TR/CSS2/images/boxdim.png)
+
+*source:* W3.org
+
+
+
+
+## Responsive Design
+
+* Having a good experience on different devices 
+* Progressive Enhancement
+* [Origin of the Term](http://alistapart.com/article/responsive-web-design)
 
 
 
