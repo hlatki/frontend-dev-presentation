@@ -335,6 +335,15 @@ color: pink;
 
 
 
+## The Future (is here)
+ 
+ * Making CSS dynamic and easier to develop 
+ * [LESS](http://lesscss.org/)
+ * [SASS](http://sass-lang.com/)
+
+
+
+
 ## JavaScript
 
 * Has nothing to do with Java
@@ -346,6 +355,7 @@ color: pink;
 ## Including Your JS
 * Inline or external
 * Either way, do it before the &lt;/body&gt; tag
+
 
 
 
