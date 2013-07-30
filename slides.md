@@ -456,7 +456,6 @@ var myArray = ["cat","dog","wookie"];
 ## Functions
 * Allows you to reuse chunks of code
 * [Example](http://jsfiddle.net/ku2vc/)
-*
 
 
 
