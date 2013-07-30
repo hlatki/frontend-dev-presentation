@@ -165,7 +165,7 @@ color: #444;
 }
 &lt;/style&gt;
 &lt;/head&gt;
-</pre></code>
+</code></pre>
 
 
 
@@ -173,7 +173,7 @@ color: #444;
 ## Inline CSS
 <pre><code class="html">
 &lt;h1 style="color: #444;"&gt;My Website&lt;/h1&gt;
-</pre></code>
+</code></pre>
 
 
 
@@ -203,7 +203,7 @@ color: #444;
     color: blue;
     font-size: 3em;
 }
-</pre></code>
+</code></pre>
 [Run it](http://jsfiddle.net/vKyQg/)
 
 
@@ -216,7 +216,7 @@ color: #444;
 .warning {
     color: red;
 }
-</pre></code>
+</code></pre>
 
 
 
@@ -227,7 +227,7 @@ color: #444;
 h1 a {
     color: green;
 }
-</pre></code>
+</code></pre>
 [Example](http://jsfiddle.net/gy9sA/)
 
 
@@ -261,7 +261,7 @@ h1 a {
 a:hover {
 color: pink;  
 }
-</pre></code>
+</code></pre>
 
 
 
@@ -320,7 +320,7 @@ color: pink;
 &lt;script&gt;
 alert("JavaScript!");
 &lt;/script&gt;
-</pre></code>
+</code></pre>
 
 
 
@@ -328,7 +328,7 @@ alert("JavaScript!");
 ## Linking to External File
 <pre><code>
 &lt;script type="text/javascript" src="yourfile.js"&gt;&lt;/script&gt;
-</pre></code>
+</code></pre>
 
 
 
@@ -338,9 +338,26 @@ alert("JavaScript!");
 * Can be a string, number, function, another variable, object
 <pre><code>
 var myName = "Hannah";
-</pre></code>
+</code></pre>
 * You can change them
 * [Example](http://jsfiddle.net/RbLfn/)
+
+
+
+
+## Comments 
+
+* Single line: everything on that line after // is ignored
+<pre><code>
+// This is a comment
+</code></pre>
+* Multiline: everything between /* and this */ is ignored
+<pre><code>
+/*
+This comment
+is two lines long
+*/
+</code></pre>
 
 
 
@@ -349,7 +366,7 @@ var myName = "Hannah";
 * Think of them as list of variables
 <pre><code>
 var myArray = ["cat","dog","wookie"];
-</pre></code>
+</code></pre>
 * [Example](http://jsfiddle.net/kJ4ac/)
 
 
@@ -372,6 +389,13 @@ var myArray = ["cat","dog","wookie"];
 * Allows you to reuse chunks of code
 * [Example](http://jsfiddle.net/ku2vc/)
 *
+
+
+
+## Callbacks
+
+
+
 
 
 ## jQuery
