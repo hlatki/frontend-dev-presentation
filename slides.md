@@ -552,7 +552,7 @@ those found at W3Schools.
 
 ## Questions etc.
 
-Feel free to contact me with any question:
+Feel free to contact me with any questions:
 
 Twitter: @hlatkin
 
