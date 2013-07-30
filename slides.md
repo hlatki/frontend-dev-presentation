@@ -101,7 +101,7 @@
 
 ## IDs &amp; Classes
 
-* An ID Uniquely identifies an element 
+* An ID uniquely identifies an element 
 * You can add a particular class to many elements
 * You can assign multiple classes to an element
 
