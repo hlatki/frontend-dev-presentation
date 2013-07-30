@@ -53,7 +53,7 @@
 ## The File Structure of a Website
 
 * index.html
-* Good organization to have seperate files for CSS, images, JS, etc.
+* Good organization to have seperate folders for CSS, images, JS, etc.
 
 
 
